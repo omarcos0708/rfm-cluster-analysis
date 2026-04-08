@@ -1,4 +1,5 @@
-# E-comerce_cluster_RFV
+# E-comerce_cluster_RFM
+
 <h3> O objetivo de um algoritimo cluster é dividir e agrupar itens, clientes, objetos etc. com base nas features contidas no dataset </3>
 <h3>neste modelo o objetivo é dividir com base nas váriaveis da análise RFM:</3>
 </h4> 
